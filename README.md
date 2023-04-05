@@ -2,13 +2,11 @@
 
 #
 <p align="justify">I'm from Vietnam. I am a student with a passion for DevOps . I am constantly learning and researching about it. Additionally, I push myself by seeking out new knowledge and embracing challenges.</p>
-<br/> 
+
 
 ### About Me 
 - All of my projects are available at **[My Portfolio]()** 
 - How to reach me **0521.20nn@gmail.com**
-
-<br/>
 
 ### Top Skill
 <div id="badges">
@@ -22,8 +20,6 @@
     <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/terraform-7b48b5?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
-
-<br> 
 
 ### Certification 
 
