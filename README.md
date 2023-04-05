@@ -4,13 +4,13 @@
 <p align="justify">I'm from Vietnam. I am a student with a passion for DevOps . I am constantly learning and researching about it. Additionally, I push myself by seeking out new knowledge and embracing challenges.</p>
 <br/> 
 
-## About Me 
+### About Me 
 - All of my projects are available at **[My Portfolio]()** 
 - How to reach me **0521.20nn@gmail.com**
 
 <br/>
 
-## Top Skill
+### Top Skill
 <div id="badges">
     <img src="https://img.shields.io/badge/linux-242938?style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=amazon-aws&logoColor=white" />
