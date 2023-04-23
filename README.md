@@ -20,8 +20,9 @@
     <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/terraform-7b48b5?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-    ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Certification 
 
