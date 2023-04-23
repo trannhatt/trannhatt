@@ -5,7 +5,7 @@
 
 
 ### About Me 
-- All of my projects are available at **[My Portfolio]()** 
+<!-- - All of my projects are available at **[My Portfolio]()**  -->
 - How to reach me **0521.20nn@gmail.com**
 
 ### Top Skill
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/jenkins-242938?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/terraform-7b48b5?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
