@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://webexample75.files.wordpress.com/2023/04/myreadme-1.png" height="" /></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://webexample75.files.wordpress.com/2023/04/myreadme-1.png" height="" /></a> -->
 
 #
 <p align="justify">I'm from Vietnam. I am a student with a passion for DevOps . I am constantly learning and researching about it. Additionally, I push myself by seeking out new knowledge and embracing challenges.</p>
