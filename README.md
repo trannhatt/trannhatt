@@ -4,11 +4,6 @@
 <p align="justify">I'm from Vietnam. I am currently a Computer Science student with a passion for the field to the exciting world of DevOps.
 </p>
 
-
-### About Me 
-<!-- - All of my projects are available at **[My Portfolio]()**  -->
-- How to reach me **0521.20nn@gmail.com**
-
 ### Top Skill
 <div id="badges">
     <img src="https://img.shields.io/badge/linux-242938?style=for-the-badge&logo=linux&logoColor=white" />
@@ -56,3 +51,7 @@
       <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,ansible,git,html,css,javascript,react,mysql" />
     </a>
   </p> -->
+  
+  ### About Me 
+<!-- - All of my projects are available at **[My Portfolio]()**  -->
+- How to reach me **0521.20nn@gmail.com**
