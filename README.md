@@ -48,6 +48,6 @@
     </a>
   </p> -->
   
-  ### About Me 
+<!--  ### About Me -->
 <!-- - All of my projects are available at **[My Portfolio]()**  -->
-- How to reach me **0521.20nn@gmail.com**
+<!-- - How to reach me **0521.20nn@gmail.com**  -->
