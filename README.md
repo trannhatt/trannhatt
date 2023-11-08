@@ -1,9 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://webexample75.files.wordpress.com/2023/04/myreadme-1.png" height="" /></a> -->
 
-#
-<p align="justify">I'm from Vietnam. I am currently a Computer Science student with a passion for the field to the exciting world of DevOps.
-</p>
-
 ### Top Skill
 <div id="badges">
     <img src="https://img.shields.io/badge/linux-242938?style=for-the-badge&logo=linux&logoColor=white" />
