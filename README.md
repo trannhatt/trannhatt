@@ -15,11 +15,11 @@
 <!--     <img src="https://img.shields.io/badge/docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" align="center" />
     <img src="https://img.shields.io/badge/terraform-7b48b5?style=for-the-badge&logo=terraform&logoColor=white" align="center" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" align="center" />
+    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" align="center" />
 </div>
-<div id="badges" align="center" >
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-</div>
+
+
 ### Certification 
 
 [`AWS Academy Graduate - AWS Academy Cloud Foundations`](https://www.credly.com/badges/c0fb4459-4865-4edf-afb9-b82b932c593b/public_url) 
