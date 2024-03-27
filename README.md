@@ -1,7 +1,11 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://webexample75.files.wordpress.com/2023/04/myreadme-1.png" height="" /></a> -->
 
-### Top Skill
-<div id="badges">
+<p align="center">
+ <p align="center">Embark on the journey to become a DevOps Engineer, driven by a passion for the exciting world of DevOps.</p>
+</p>
+
+### DevOps Skill
+<div id="badges" align="center" >
     <img src="https://img.shields.io/badge/linux-242938?style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" />
