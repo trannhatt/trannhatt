@@ -23,6 +23,7 @@
 ### Certification 
 
 [`AWS Academy Graduate - AWS Academy Cloud Foundations`](https://www.credly.com/badges/c0fb4459-4865-4edf-afb9-b82b932c593b/public_url) 
+[`DevOps on AWS Specialization`]([https://www.credly.com/badges/c0fb4459-4865-4edf-afb9-b82b932c593b/public_url](https://www.coursera.org/account/accomplishments/specialization/certificate/BKSD9RPX9NKS)) 
 
 <!-- 
 [`English for Science, Technology, Engineering, and Mathematics (STEM) MOOC 2023`](https://api.badgr.io/public/assertions/LyTrqj_kQESMKawkcebPCw?identity__email=0521.20nn%40gmail.com) -->
