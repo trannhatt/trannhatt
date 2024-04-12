@@ -4,7 +4,7 @@
  <p align="center">Embark on the journey to become a DevOps Engineer, driven by a passion for the exciting world of DevOps.</p>
 </p>
 
-### DevOps Skill
+### 🧑‍💻 DevOps Skill
 <div id="badges" align="center" >
     <img src="https://img.shields.io/badge/linux-242938?style=for-the-badge&logo=linux&logoColor=white" align="center" />
     <img src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=amazon-aws&logoColor=white" align="center" />
@@ -19,6 +19,11 @@
     <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" align="center" />
 </div>
 
+### 📚 Another Skill
+
+<div id="badges" align="center" >
+ <img height="25px" src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" align="center" />  <img height="25px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" align="center" /> 
+</div>
 
 ### Certification 
 
