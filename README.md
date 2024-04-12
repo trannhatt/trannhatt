@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/docker-2396ED?style=for-the-badge&logo=docker&logoColor=white"  align="center"/>
     <img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" align="center" />
     <img src="https://img.shields.io/badge/jenkins-242938?style=for-the-badge&logo=jenkins&logoColor=white"  align="center"/>
-    <img src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" align="center" />  
+    <img src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" align="center" />  <br>
 <!--     <img src="https://img.shields.io/badge/docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" align="center" /> <br>
+    <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" align="center" /> 
     <img src="https://img.shields.io/badge/terraform-7b48b5?style=for-the-badge&logo=terraform&logoColor=white" align="center" />
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" align="center" />
     <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" align="center" />
@@ -34,6 +34,11 @@
 [`AWS Academy Graduate - AWS Academy Cloud Foundations`](https://www.credly.com/badges/c0fb4459-4865-4edf-afb9-b82b932c593b/public_url) 
 <br>
 [`DevOps on AWS Specialization`](https://www.coursera.org/account/accomplishments/specialization/certificate/BKSD9RPX9NKS) 
+
+<p align="center">
+ <h1 align="center"> I. List of my DevOps Project </h1>
+</p>
+
 
 <!-- 
 [`English for Science, Technology, Engineering, and Mathematics (STEM) MOOC 2023`](https://api.badgr.io/public/assertions/LyTrqj_kQESMKawkcebPCw?identity__email=0521.20nn%40gmail.com) -->
