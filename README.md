@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/jenkins-242938?style=for-the-badge&logo=jenkins&logoColor=white"  align="center"/>
     <img src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" align="center" />  
 <!--     <img src="https://img.shields.io/badge/docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" align="center" />
+    <img src="https://img.shields.io/badge/git-f03c2e?style=for-the-badge&logo=git&logoColor=white" align="center" /> <br>
     <img src="https://img.shields.io/badge/terraform-7b48b5?style=for-the-badge&logo=terraform&logoColor=white" align="center" />
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" align="center" />
     <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" align="center" />
