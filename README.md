@@ -29,14 +29,14 @@
  <img height="25px" src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" align="center" />  <img height="25px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" align="center" /> 
 </div>
 
-### Certification 
+### 📚 Certification 
 
 [`AWS Academy Graduate - AWS Academy Cloud Foundations`](https://www.credly.com/badges/c0fb4459-4865-4edf-afb9-b82b932c593b/public_url) 
 <br>
 [`DevOps on AWS Specialization`](https://www.coursera.org/account/accomplishments/specialization/certificate/BKSD9RPX9NKS) 
 
 <p align="center">
- <h1 align="center"> I. List of my DevOps Project </h1>
+ <h1 align="center"> I. List of my DevOps Project  </h1>
 </p>
 
 
